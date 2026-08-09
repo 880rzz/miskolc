@@ -1,0 +1,11 @@
+{
+  "name": "IWE Miskolc — International Welding Engineer",
+  "short_name": "IWE Miskolc",
+  "start_url": "/miskolc/",
+  "scope": "/miskolc/",
+  "display": "standalone",
+  "background_color": "#DCDAD5",
+  "theme_color": "#DCDAD5",
+  "lang": "en",
+  "icons": []
+}

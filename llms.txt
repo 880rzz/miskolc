@@ -35,10 +35,10 @@
 
 ## Pages
 
-- [English](https://YOUR-DOMAIN.tld/): full programme overview, cost breakdown, eligibility, application route, FAQ.
-- [Arabic / العربية](https://YOUR-DOMAIN.tld/ar/): same content for Arabic-speaking engineers.
-- [Hausa](https://YOUR-DOMAIN.tld/ha/): same content for the Nigerian and West African market.
-- [Privacy notice](https://YOUR-DOMAIN.tld/privacy.html): GDPR notice, cookie table, data subject rights.
+- [English](https://880rzz.github.io/miskolc/): full programme overview, cost breakdown, eligibility, application route, FAQ.
+- [Arabic / العربية](https://880rzz.github.io/miskolc/ar/): same content for Arabic-speaking engineers.
+- [Hausa](https://880rzz.github.io/miskolc/ha/): same content for the Nigerian and West African market.
+- [Privacy notice](https://880rzz.github.io/miskolc/privacy.html): GDPR notice, cookie table, data subject rights.
 
 ## Official sources
 

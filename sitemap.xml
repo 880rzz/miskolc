@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://880rzz.github.io/miskolc/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://880rzz.github.io/miskolc/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://880rzz.github.io/miskolc/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://880rzz.github.io/miskolc/ha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://880rzz.github.io/miskolc/"/>
+  </url>
+
+  <url>
+    <loc>https://880rzz.github.io/miskolc/ar/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://880rzz.github.io/miskolc/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://880rzz.github.io/miskolc/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://880rzz.github.io/miskolc/ha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://880rzz.github.io/miskolc/"/>
+  </url>
+
+  <url>
+    <loc>https://880rzz.github.io/miskolc/ha/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://880rzz.github.io/miskolc/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://880rzz.github.io/miskolc/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://880rzz.github.io/miskolc/ha/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://880rzz.github.io/miskolc/"/>
+  </url>
+
+  <url>
+    <loc>https://880rzz.github.io/miskolc/privacy.html</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://880rzz.github.io/miskolc/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://880rzz.github.io/miskolc/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ha" href="https://880rzz.github.io/miskolc/ha/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://880rzz.github.io/miskolc/ar/privacy.html</loc>
+    <lastmod>2026-08-09</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://880rzz.github.io/miskolc/ha/privacy.html</loc>
+    <lastmod>2026-08-09</lastmod>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
